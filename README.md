@@ -1,3 +1,11 @@
 <h1 align="center"> Amigo Secreto </h1>
 
-Juego desarrollado bajo las instrucciones del Challenge de Alura Latam. Consiste en agregar nombres a un array y sortearlos de manera aleatoria.
+- Descripción del proyecto: Juego que consiste en agregar diferentes nombres de amigos y luego sortearlos hasta dar un resultado aleatorio.
+
+- Cómo jugar:
+
+Se abre el archivo HTML
+
+- Estado del proyecto: Finalizado.
+
+- Para ejecutar el proyecto: Abre el archivo HTML.
