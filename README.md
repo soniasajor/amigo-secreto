@@ -4,7 +4,7 @@
 
 - Cómo jugar:
 
-Se abre el archivo HTML con el enlace: https://soniasajor.github.io/amigo-secreto/
+Se abre el archivo HTML.
 
 
 
